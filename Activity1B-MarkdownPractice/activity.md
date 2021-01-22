@@ -12,4 +12,4 @@ Lecture 1 Activity
 
 [Favourite restaurant in Kelowna: Bluetail](https://www.bluetailsushi.com)
 
-![An image of puppies](file:///Users/helen/Desktop/puppies.png) 
+An image of puppies <img width="566" alt="puppies" src="https://user-images.githubusercontent.com/77637781/105438257-79a82d00-5c17-11eb-99a0-2ba37327d6ba.png">
